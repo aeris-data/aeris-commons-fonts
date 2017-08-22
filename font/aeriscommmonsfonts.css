@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "aeriscommmonsfonts";
-	src: url("aeriscommmonsfonts.eot?60d98d7310175e38a5027f846504afe6?#iefix") format("embedded-opentype"),
-url("aeriscommmonsfonts.woff2?60d98d7310175e38a5027f846504afe6") format("woff2"),
-url("aeriscommmonsfonts.woff?60d98d7310175e38a5027f846504afe6") format("woff");
+	src: url("aeriscommmonsfonts.eot?93082bb652b8dcc0e012d1969acfcda0?#iefix") format("embedded-opentype"),
+url("aeriscommmonsfonts.woff2?93082bb652b8dcc0e012d1969acfcda0") format("woff2"),
+url("aeriscommmonsfonts.woff?93082bb652b8dcc0e012d1969acfcda0") format("woff");
 }
 
 .icon {
@@ -21,4 +21,7 @@ url("aeriscommmonsfonts.woff?60d98d7310175e38a5027f846504afe6") format("woff");
 }
 .icon-experiment:before {
 	content: "\f102";
+}
+.icon-wall:before {
+	content: "\f103";
 }
