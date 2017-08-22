@@ -1,0 +1,14 @@
+{
+  "name": "aeris-commons-fonts",
+  "description": "Catalogue commons fonts ",
+  "version": "0.1.0",
+  "author": "Aeris",
+  "private": false,
+  "scripts": {
+    "font": "node script/gensvgfont.js"
+  },
+  "devDependencies": {
+    "webfonts-generator": "^0.4.0",
+    "webfonts-loader": "2.0.3"
+  }
+}

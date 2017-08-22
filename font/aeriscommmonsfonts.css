@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "aeriscommmonsfonts";
+	src: url("aeriscommmonsfonts.eot?60d98d7310175e38a5027f846504afe6?#iefix") format("embedded-opentype"),
+url("aeriscommmonsfonts.woff2?60d98d7310175e38a5027f846504afe6") format("woff2"),
+url("aeriscommmonsfonts.woff?60d98d7310175e38a5027f846504afe6") format("woff");
+}
+
+.icon {
+	line-height: 1;
+}
+
+.icon:before {
+	font-family: aeriscommmonsfonts !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.icon-chamber:before {
+	content: "\f101";
+}
+.icon-experiment:before {
+	content: "\f102";
+}
