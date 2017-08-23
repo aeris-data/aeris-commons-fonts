@@ -1,27 +1,54 @@
 @font-face {
 	font-family: "aeriscommmonsfonts";
-	src: url("aeriscommmonsfonts.eot?93082bb652b8dcc0e012d1969acfcda0?#iefix") format("embedded-opentype"),
-url("aeriscommmonsfonts.woff2?93082bb652b8dcc0e012d1969acfcda0") format("woff2"),
-url("aeriscommmonsfonts.woff?93082bb652b8dcc0e012d1969acfcda0") format("woff");
+	src: url("aeriscommmonsfonts.eot?a1d094d2d6e3f88ff745b16ccd794739?#iefix") format("embedded-opentype"),
+url("aeriscommmonsfonts.woff2?a1d094d2d6e3f88ff745b16ccd794739") format("woff2"),
+url("aeriscommmonsfonts.woff?a1d094d2d6e3f88ff745b16ccd794739") format("woff");
 }
 
-.icon {
+.aeris-icon {
 	line-height: 1;
 }
 
-.icon:before {
+.aeris-icon:before {
 	font-family: aeriscommmonsfonts !important;
 	font-style: normal;
 	font-weight: normal !important;
 	vertical-align: top;
 }
 
-.icon-chamber:before {
+.aeris-icon-chamber:before {
 	content: "\f101";
 }
-.icon-experiment:before {
+.aeris-icon-experiment:before {
 	content: "\f102";
 }
-.icon-wall:before {
+.aeris-icon-wall:before {
 	content: "\f103";
+}
+.aeris-icon-ionization:before {
+	content: "\f104";
+}
+.aeris-icon-resolution:before {
+	content: "\f105";
+}
+.aeris-icon-spectrum:before {
+	content: "\f106";
+}
+.aeris-icon-aircraft:before {
+	content: "\f107";
+}
+.aeris-icon-balloon:before {
+	content: "\f108";
+}
+.aeris-icon-eos:before {
+	content: "\f109";
+}
+.aeris-icon-insitulandplatform:before {
+	content: "\f10a";
+}
+.aeris-icon-spacestation:before {
+	content: "\f10b";
+}
+.aeris-icon-unknown:before {
+	content: "\f10c";
 }
