@@ -14,6 +14,7 @@ webfontsGenerator({
 	  path.resolve(__dirname, './../svg//eos.svg'),
 	  path.resolve(__dirname, './../svg//insitulandplatform.svg'),
 	  path.resolve(__dirname, './../svg//spacestation.svg'),
+	  path.resolve(__dirname, './../svg//atmosphericsimulationchamber.svg'),
 	  path.resolve(__dirname, './../svg//unknown.svg')
   ],
   dest: path.resolve(__dirname, './../font/'),

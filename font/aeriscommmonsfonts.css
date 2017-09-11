@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "aeriscommmonsfonts";
-	src: url("aeriscommmonsfonts.eot?a1d094d2d6e3f88ff745b16ccd794739?#iefix") format("embedded-opentype"),
-url("aeriscommmonsfonts.woff2?a1d094d2d6e3f88ff745b16ccd794739") format("woff2"),
-url("aeriscommmonsfonts.woff?a1d094d2d6e3f88ff745b16ccd794739") format("woff");
+	src: url("aeriscommmonsfonts.eot?b058c73556c4fc310ef2845296181e61?#iefix") format("embedded-opentype"),
+url("aeriscommmonsfonts.woff2?b058c73556c4fc310ef2845296181e61") format("woff2"),
+url("aeriscommmonsfonts.woff?b058c73556c4fc310ef2845296181e61") format("woff");
 }
 
 .aeris-icon {
@@ -49,6 +49,9 @@ url("aeriscommmonsfonts.woff?a1d094d2d6e3f88ff745b16ccd794739") format("woff");
 .aeris-icon-spacestation:before {
 	content: "\f10b";
 }
-.aeris-icon-unknown:before {
+.aeris-icon-atmosphericsimulationchamber:before {
 	content: "\f10c";
+}
+.aeris-icon-unknown:before {
+	content: "\f10d";
 }
