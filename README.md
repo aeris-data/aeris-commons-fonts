@@ -11,7 +11,7 @@ npm install
 # generate fonts for icons
 npm run font
 
-## Build Setup
+## How to generate the fonts
 
 Copy the files in the svg repertory
 Add its path in gensvgfont.js file (src)
